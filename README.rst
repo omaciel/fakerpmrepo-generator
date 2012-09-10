@@ -16,11 +16,11 @@ Options
 
   --version                   show program's version number and exit
   -h, --help                  show this help message and exit
-  -s SIZE, --size=SIZE        maximum size in KB for created packages
-  -n NUMBER, --number=NUMBER  number of packages to be generated
+  -s SIZE, --size=SIZE        maximum size in KB for created packages (default: 100)
+  -n NUMBER, --number=NUMBER  number of packages to be generated (default: 5)
   -m, --multiples             generate 0-3 random new versions of each package and errata
-  -o OUTPUT, --output=OUTPUT  directory where the new repository should be created
-  -d DICTIONARY, --dictionary=DICTIONARY    a text file containing a list of unique names, one per line
+  -o OUTPUT, --output=OUTPUT  directory where the new repository should be created (default: /var/tmp/generated-repo)
+  -d DICTIONARY, --dictionary=DICTIONARY    a text file containing a list of unique names, one per line (default: words_animals.txt)
 
 Examples
 --------
