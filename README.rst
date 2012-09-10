@@ -81,3 +81,6 @@ Your new fake repo is available at: /var/tmp/generated-repo
     Denmark-4.4.6-1.elfake.noarch.rpm           Tanzania-7.9.7-1.elfake.noarch.rpm
     EquatorialGuinea-5.0.6-1.elfake.noarch.rpm  updateinfo.xml
     Iceland-4.7.3-1.elfake.noarch.rpm
+
+Title
+=====
